@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page Club Campestre</title>
+</head>
+<body>
+    <h1>Pagina principal</h1>
+    Historia del club <!-- Persona 1 -->
+    <h2>Historia del club</h2>
+    <p>El club campestre Bosques de Zambrano surgio como un espacio destinado a la recreacion, el descanso y la convivencia en un ambiente rodeado de naturaleza. se encuentra en la zona de Zambrano, Francisco Morazan, y su existencia esta documentada desde ladecada de 1980. En 1984 ya funcionaba como una sociedad denominada "Club Campestre Bosques de Zambrano", cuyos accionistas realizaban asambleas generales. Para 1987, el club ya era utilizado para actividades familiares, deportivas, culturales y profesionales. Con el paso de los años, se consolido como un lugar de recreacion en medio de los bosques de Zambrano, ofreciendo espacios para compartir y disfrutar de la naturaleza</p>
+    <img src="logo.png" alt="">
+    promocion y publicidades de club <!-- Persona 2 -->
+
+
+    Menu <!-- Persona 1 -->
+    <h2>Menu</h2>
+    <img src="menu 2.jpeg" alt="">
+    <h2>Parrilladas</h2>
+    <img src="carne asada 2.jpeg" alt="">
+    <h2>Pizzas</h2>
+    <img src="Captura de pantalla 2026-09-02 154426.png" alt="">
+    <h2>Hamburguesas</h2>
+    <img src="Hamburguesa.png" alt="">
+    <h2>Alitas</h2>
+    <img src="Alitas.png" alt="">
+
+
+    
+
+
+
+
+    contactos <!-- persona 2 -->
+
+    
+
+    
+</body>
+</html>
