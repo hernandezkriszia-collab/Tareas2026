@@ -16,7 +16,7 @@
 
     Menu <!-- Persona 1 -->
     <h2>Menu</h2>
-    <img src="menu 2.jpeg" alt="">
+    <img src="menu 2.jpeg"  width ="200 " height="200">
     <h2>Parrilladas</h2>
     <img src="carne asada 2.jpeg" alt="">
     <h2>Pizzas</h2>
@@ -29,3 +29,4 @@
 
  contactos <!-- persona 2 -->
 </body>
+</html>
